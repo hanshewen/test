@@ -1,0 +1,3 @@
+http://localhost:8080/gtms-admin/receivable/listReceivable
+
+http://localhost:8080/gtms-admin/payable/listPayable
